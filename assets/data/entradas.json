@@ -1,0 +1,22 @@
+[{
+        "titulo": "Entrada 1",
+        "imagen": "assets/img/nosotros.jpg",
+        "fecha": "08/04/2022",
+        "autor": "Administrador",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores neque perspiciatis blanditiis ut iusto harum temporibus quaerat modi, dolore suscipit autem, velit explicabo eius nemo magnam rerum architecto quasi rem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error ut fuga magnam ipsum id iure necessitatibus quisquam officiis expedita, exercitationem minima optio perferendis quam quibusdam sapiente quod deleniti hic cupiditate."
+    },
+    {
+        "titulo": "Entrada 2",
+        "imagen": "assets/img/producto1.jpg",
+        "fecha": "08/04/2022",
+        "autor": "Autor 1",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores neque perspiciatis blanditiis ut iusto harum temporibus quaerat modi, dolore suscipit autem, velit explicabo eius nemo magnam rerum architecto quasi rem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error ut fuga magnam ipsum id iure necessitatibus quisquam officiis expedita, exercitationem minima optio perferendis quam quibusdam sapiente quod deleniti hic cupiditate."
+    },
+    {
+        "titulo": "Entrada 3",
+        "imagen": "assets/img/producto2.jpg",
+        "fecha": "08/04/2022",
+        "autor": "Autor 5",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores neque perspiciatis blanditiis ut iusto harum temporibus quaerat modi, dolore suscipit autem, velit explicabo eius nemo magnam rerum architecto quasi rem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error ut fuga magnam ipsum id iure necessitatibus quisquam officiis expedita, exercitationem minima optio perferendis quam quibusdam sapiente quod deleniti hic cupiditate."
+    }
+]

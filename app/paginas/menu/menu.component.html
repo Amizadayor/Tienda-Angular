@@ -1,0 +1,7 @@
+<div class="contenedor-navegacion ">
+    <nav class="nav-principal contenedor">
+        <a *ngFor="let registro of menu" [routerLink]="registro.url" routerLinkActive="activo">
+            {{registro.nombre}}
+        </a>
+    </nav>
+</div>

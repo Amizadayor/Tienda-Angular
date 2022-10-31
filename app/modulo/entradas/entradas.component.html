@@ -1,0 +1,12 @@
+<div class="entrada" *ngFor="let entrada of entradas">
+    <h2 class="text-center">{{ entrada.titulo}}</h2>
+    <img [src]="entrada.imagen" [alt]="entrada.imagen">
+    <div class="texto-blog">
+        <div class="fecha-autor">
+            <p><b>Fecha :</b> <span>{{entrada.fecha}}</span></p>
+            <p><b>Autor :</b> <span>{{entrada.autor}}</span></p>
+        </div>
+        <p>{{ entrada.descripcion }}</p>
+        <a href="#" class="btn">Leer más....</a>
+    </div>
+</div>

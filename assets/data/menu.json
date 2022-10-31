@@ -1,0 +1,25 @@
+[{
+        "nombre": "Inicio",
+        "url": "/inicio"
+    },
+    {
+        "nombre": "Tienda",
+        "url": "/tienda"
+    },
+    {
+        "nombre": "Galeria",
+        "url": "/galeria"
+    },
+    {
+        "nombre": "Blog",
+        "url": "/blog"
+    },
+    {
+        "nombre": "Nosotros",
+        "url": "/nosostros"
+    },
+    {
+        "nombre": "Contacto",
+        "url": "/contacto"
+    }
+]

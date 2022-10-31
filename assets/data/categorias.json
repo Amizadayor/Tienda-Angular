@@ -1,0 +1,13 @@
+[{
+        "imagen": "assets/img/categoria1.jpg",
+        "nombre": "Oficina"
+    },
+    {
+        "imagen": "assets/img/categoria2.jpg",
+        "nombre": "Hogar"
+    },
+    {
+        "imagen": "assets/img/categoria3.jpg",
+        "nombre": "Cocina"
+    }
+]

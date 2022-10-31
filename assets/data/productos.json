@@ -1,0 +1,43 @@
+[{
+        "imagen": "assets/img/producto1.jpg",
+        "nombre": "producto 1",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$6,000.00",
+        "url": "/tienda"
+    },
+    {
+        "imagen": "assets/img/producto2.jpg",
+        "nombre": "producto 2",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$5,000.00",
+        "url": "/tienda"
+    },
+    {
+        "imagen": "assets/img/producto3.jpg",
+        "nombre": "producto 3",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$4,000.00",
+        "url": "/tienda"
+    },
+    {
+        "imagen": "assets/img/producto4.jpg",
+        "nombre": "producto 4",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$3,000.00",
+        "url": "/tienda"
+    },
+    {
+        "imagen": "assets/img/producto5.jpg",
+        "nombre": "producto 5",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$2,000.00",
+        "url": "/tienda"
+    },
+    {
+        "imagen": "assets/img/producto6.jpg",
+        "nombre": "producto 6",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia temporibus velit itaque reiciendis?",
+        "precio": "$1,000.00",
+        "url": "/tienda"
+    }
+]

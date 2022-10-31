@@ -1,0 +1,11 @@
+<div class="hero"></div>
+<section class="contenedor categorias">
+    <h2 class="text-center">Categorías De Productos</h2>
+    <div class="listado-categorias">
+        <div class="categoria" *ngFor="let item of categorias">
+            <app-categoria [categoria]="item"></app-categoria>
+        </div>
+    </div>
+</section>
+<app-nosotros></app-nosotros>
+<app-tienda></app-tienda>
